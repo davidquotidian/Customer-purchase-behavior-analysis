@@ -6,16 +6,6 @@ Projekt sa zameriava na analýzu nákupného správania zákazníkov významnéh
 
 Analýza vychádza z viac ako 100 000 transakcií a bola realizovaná pomocou PostgreSQL, Pythonu a R.
 
-## 🎯 Ciele projektu
-
-- Identifikovať skupiny zákazníkov s vyššou citlivosťou na zľavy
-- Vyhodnotiť efektivitu vernostného programu
-- Preskúmať vplyv veku na využívanie zliav
-- Analyzovať správanie odberateľov newslettera
-- Identifikovať regionálne rozdiely
-- Preskúmať vzťah medzi frekvenciou nákupov a využívaním benefitov
-- Analyzovať sezónnosť predaja
-
 ## 🛠️ Použité technológie
 
 - PostgreSQL
